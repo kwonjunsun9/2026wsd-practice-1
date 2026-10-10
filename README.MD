@@ -26,7 +26,7 @@ java -jar build/libs/wsd-practice-1-0.0.1-SNAPSHOT.jar
 ## 3. 프로젝트 구조
 
 ```
-com.wsd_practice_1.api.kjs
+2026wsd-practice-1\src\main\java\com\wsd_practice_1\api\kjs
 ├── ItemController.java        # 8개 API 구현
 ├── ExceptionHandler.java      # 컨트롤러 이전 단계의 예외를 통일된 응답으로 변환
 └── RequestLoggingFilter.java  # 요청 로그 출력 미들웨어
